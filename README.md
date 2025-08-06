@@ -9,10 +9,13 @@
   - [Portfolio Website made using HTML and CSS](https://github.com/aqiiil/portfolio-website1)
   - [Nike-Inspired Product Page](https://github.com/aqiiil/nike-website)
  
-<h2> Certifications: </h2>
+ <h2> Certifications: </h2>
 
 - [Certified in Cybersecurity (CC) - ISC2](https://www.credly.com/badges/3e103208-bec2-4f7b-a850-6ee1dfe37287/public_url)
+ 
+<h2> TryHackMe Profile Badge: </h2>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/t4k3n.png" alt="Your Image Badge" />
 
 <h2> Connect with me:</h2>
 
