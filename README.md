@@ -14,7 +14,7 @@
 - [Certified in Cybersecurity (CC) - ISC2](https://www.credly.com/badges/3e103208-bec2-4f7b-a850-6ee1dfe37287/public_url)
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
