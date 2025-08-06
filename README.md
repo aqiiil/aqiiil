@@ -7,6 +7,7 @@
 <h2> Web Development Projects:</h2>
 
   - [Portfolio Website made using HTML and CSS](https://github.com/aqiiil/portfolio-website1)
+  - [Nike like Website made using HTML and CSS]((https://github.com/aqiiil/nike-website))
  
 <h2> Certifications: </h2>
 
