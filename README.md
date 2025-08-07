@@ -16,7 +16,7 @@
 <h2> TryHackMe Profile Badge: </h2>
 
 <a href="https://tryhackme.com/p/t4k3n" target="_blank">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/t4k3n.png" alt="TryHackMe Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/t4k3n.png" alt="Your Image Badge" />
 </a>
 
 <h2> Connect with me:</h2>
