@@ -12,6 +12,8 @@
  <h2> Certifications: </h2>
 
 - [Certified in Cybersecurity (CC) - ISC2](https://www.credly.com/badges/3e103208-bec2-4f7b-a850-6ee1dfe37287/public_url)
+- [Pre Security Path - TryHackMe](https://tryhackme.com/certificate/THM-1LWNVW0KVQ)
+- [Cybersecurity 101 Path - TryHackMe](https://tryhackme.com/certificate/THM-UI59MVWPZF)
  
 <h2> TryHackMe Profile Badge: </h2>
 
