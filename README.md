@@ -15,12 +15,6 @@
 - [Pre Security Path - TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1LWNVW0KVQ.pdf)
 - [Cybersecurity 101 Path - TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-UI59MVWPZF.pdf)
  
-<h2> TryHackMe Profile Badge: </h2>
-
-<a href="https://tryhackme.com/p/t4k3n" target="_blank">
-<img src="https://tryhackme-badges.s3.amazonaws.com/t4k3n.png" alt="Your Image Badge" />
-</a>
-
 <h2> Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
