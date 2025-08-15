@@ -15,7 +15,7 @@
 - [Pre Security Path - TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1LWNVW0KVQ.pdf)
 - [Cybersecurity 101 Path - TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-UI59MVWPZF.pdf)
 
- <h2> TryHackMe: </h2>
+ <h2> TryHackMe Profile: </h2>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/t4k3n.png" alt="Your Image Badge" />
  
