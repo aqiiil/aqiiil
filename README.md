@@ -14,6 +14,10 @@
 - [Certified in Cybersecurity (CC) - ISC2](https://www.credly.com/badges/3e103208-bec2-4f7b-a850-6ee1dfe37287/public_url)
 - [Pre Security Path - TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1LWNVW0KVQ.pdf)
 - [Cybersecurity 101 Path - TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-UI59MVWPZF.pdf)
+
+ <h2> TryHackMe: </h2>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/t4k3n.png" alt="Your Image Badge" />
  
 <h2> Connect with me:</h2>
 
