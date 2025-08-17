@@ -8,7 +8,7 @@
 
   - [Website made using Bootstrap](https://aqiiil.github.io/Bootstrap-Website/)
   - [Nike Inspired Product Page](https://aqiiil.github.io/nike-website/)
-  - [Portfolio Website made using HTML and CSS](aqiiil.github.io/portfolio-website1/)
+  - [Portfolio Website made using HTML and CSS](https://aqiiil.github.io/portfolio-website1/)
  
  
  <h2> Certifications: </h2>
