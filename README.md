@@ -7,7 +7,7 @@
 <h2> Web Development Projects:</h2>
 
   - [Website made using Bootstrap](https://aqiiil.github.io/Bootstrap-Website/)
-  - [Nike-Inspired Product Page](aqiiil.github.io/nike-website/)
+  - [Nike Inspired Product Page](https://aqiiil.github.io/nike-website/)
   - [Portfolio Website made using HTML and CSS](https://github.com/aqiiil/portfolio-website1)
  
  
