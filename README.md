@@ -21,7 +21,7 @@
  
  <h2> Certifications: </h2>
 
-- [CompTIA Security+]([https://www.credly.com/badges/3e103208-bec2-4f7b-a850-6ee1dfe37287/public_url](https://www.credly.com/badges/4e9b2e38-fb37-430b-b30a-8179906507e2/public_url))
+- [CompTIA Security+](https://www.credly.com/badges/4e9b2e38-fb37-430b-b30a-8179906507e2/public_url)
 - [ISC2 Certified in Cybersecurity (CC)](https://www.credly.com/badges/3e103208-bec2-4f7b-a850-6ee1dfe37287/public_url)
 - [Pre Security Path - TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1LWNVW0KVQ.pdf)
 - [Cybersecurity 101 Path - TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-UI59MVWPZF.pdf)
