@@ -1,9 +1,6 @@
 <h1>Hi, I'm Aqil!</h1>
 <p>
-<strong>CompTIA Security+</strong> and <strong>ISC2 CC certified</strong> cybersecurity enthusiast with a 
-<strong>Computer Science</strong> background. Skilled in <strong>network security</strong>, 
-<strong>incident response</strong>, and <strong>threat detection</strong>, with hands-on experience in 
-<strong>Linux</strong>, <strong>Bash</strong>, <strong>SIEM monitoring</strong>, and core <strong>security tools</strong>.
+CompTIA Security+ and ISC2 CC certified cybersecurity enthusiast with a Computer Science background. Skilled in network security, incident response, and threat detection, with practical experience in Linux, Bash, SIEM monitoring, and core security tools. Passionate about protecting digital assets and continuously learning to stay ahead in the evolving cybersecurity landscape.
 </p>
 
 <h2> Cybersecurity Projects:</h2>
