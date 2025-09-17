@@ -1,11 +1,9 @@
 <h1>Hi, I'm Aqil!</h1>
 <p>
-  I'm a recent <strong>Computer Science graduate</strong> with a solid foundation in 
-  <strong>network security, vulnerability assessment, and incident response</strong>. 
-  I’m <strong>Certified in Cybersecurity (ISC2 CC)</strong> and currently preparing for the 
-  <strong>CompTIA Security+</strong>. Proficient in <strong>Bash scripting, Linux,</strong> 
-  and <strong>Python</strong>, along with essential security tools, I’m passionate about 
-  protecting digital assets and eager to apply my cybersecurity skills in real-world environments.
+<strong>CompTIA Security+</strong> and <strong>ISC2 CC certified</strong> cybersecurity enthusiast with a 
+<strong>Computer Science</strong> background. Skilled in <strong>network security</strong>, 
+<strong>incident response</strong>, and <strong>threat detection</strong>, with hands-on experience in 
+<strong>Linux</strong>, <strong>Bash</strong>, <strong>SIEM monitoring</strong>, and core <strong>security tools</strong>.
 </p>
 
 <h2> Cybersecurity Projects:</h2>
