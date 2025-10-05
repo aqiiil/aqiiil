@@ -6,7 +6,6 @@ CompTIA Security+ and ISC2 CC certified cybersecurity analyst with a Computer Sc
 <h2> Projects:</h2>
 
   - [Cloud-Based Honeypot Using Azure Sentinel](https://github.com/aqiiil/cloud-based-honeypot)
-
   - [Website made using Bootstrap](https://aqiiil.github.io/Bootstrap-Website/)
   - [Nike Inspired Product Page](https://aqiiil.github.io/nike-website/)
   - [Portfolio Website made using HTML and CSS](https://aqiiil.github.io/portfolio-website1/)
