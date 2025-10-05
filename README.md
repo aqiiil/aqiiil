@@ -3,11 +3,9 @@
 CompTIA Security+ and ISC2 CC certified cybersecurity analyst with a Computer Science background. Skilled in network security, incident response, and threat detection, with practical experience in Linux, Bash, SIEM monitoring, and core security tools. Passionate about protecting digital assets and continuously learning to stay ahead in the evolving cybersecurity landscape.
 </p>
 
-<h2> Cybersecurity Projects:</h2>
+<h2> Projects:</h2>
 
   - [Cloud-Based Honeypot Using Azure Sentinel](https://github.com/aqiiil/cloud-based-honeypot)
-
-<h2> Web Development Projects:</h2>
 
   - [Website made using Bootstrap](https://aqiiil.github.io/Bootstrap-Website/)
   - [Nike Inspired Product Page](https://aqiiil.github.io/nike-website/)
