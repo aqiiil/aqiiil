@@ -5,6 +5,7 @@ CompTIA Security+ and ISC2 CC certified cybersecurity analyst with a Computer Sc
 
 <h2> Projects:</h2>
 
+  - [Manual Vulnerability Remediation and Verification Using Tenable](https://github.com/aqiiil/manual-vulnerability-remediation-windows/tree/main) 
   - [Unauthenticated & Authenticated Windows Vulnerability Scan Using Tenable](https://github.com/aqiiil/vulnerability-scan-tenable-windows)  
   - [Unauthenticated & Authenticated Linux Vulnerability Scan Using Tenable](https://github.com/aqiiil/vulnerability-scan-tenable-linux)  
   - [Azure NSG & VM Connectivity](https://github.com/aqiiil/azure-nsg-connectivity)  
