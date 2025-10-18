@@ -7,7 +7,9 @@ CompTIA Security+ and ISC2 CC certified cybersecurity analyst with a Computer Sc
 
   - [Vulnerability Management Program](https://github.com/aqiiil/vulnerability-management-program) 
   - [Vulnerability Remediation and Verification Using Tenable (Windows)](https://github.com/aqiiil/manual-vulnerability-remediation-windows/tree/main) 
-  - [Vulnerability Remediation and Verification Using Tenable (Linux)](https://github.com/aqiiil/manual-vulnerability-remediation-linux/tree/main) 
+  - [Unauthenticated & Authenticated Vulnerability Scan Using Tenable (Windows)](https://github.com/aqiiil/vulnerability-scan-tenable-windows)  
+  - [Vulnerability Remediation and Verification Using Tenable (Linux)](https://github.com/aqiiil/manual-vulnerability-remediation-linux/tree/main)
+  - [Unauthenticated & Authenticated Vulnerability Scan Using Tenable (Linux)](https://github.com/aqiiil/vulnerability-scan-tenable-linux) 
   - [Azure NSG & VM Connectivity](https://github.com/aqiiil/azure-nsg-connectivity)  
   - [Cloud-Based Honeypot Using Azure Sentinel](https://github.com/aqiiil/cloud-based-honeypot)
 
